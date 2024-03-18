@@ -24,7 +24,7 @@ public class MainCalculadora {
 		calc.dividir(n1,n2);
 		
 		calc.resultado();
-		System.out.println("Soy el Mejorhtrhjrtyjtyhnjnty");
+		System.out.println("Soy Sergio");
 		
 	}
 
