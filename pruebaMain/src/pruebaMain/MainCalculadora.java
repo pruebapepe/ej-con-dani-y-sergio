@@ -9,7 +9,7 @@ public class MainCalculadora {
 		// TODO Auto-generated method stub
 
 		Scanner sn = new Scanner(System.in);
-		
+		// comentario ricardo como  prueva
 		System.out.println("ingresa el primer numero");
 		int n1 = sn.nextInt();
 		
