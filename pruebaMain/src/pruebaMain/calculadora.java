@@ -10,6 +10,7 @@ public class calculadora {
 
 
 	public int getSuma() {
+		System.out.println("Soy el Mejor.jloilkuykioukyhuky..");
 		return suma;
 	}
 
